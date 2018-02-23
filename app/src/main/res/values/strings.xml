@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Componentes</string>
+    <string name="hint_telefone">Digite seu telefone</string>
+    <string name="btn_salvar">Salvar</string>
+</resources>
